@@ -1,0 +1,106 @@
+{
+  "buildFiles": [
+    "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\hwang69\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "libopencv_features2d-Release-armeabi-v7a": {
+      "artifactName": "libopencv_features2d",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_features2d.a"
+    },
+    "libopencv_photo-Release-armeabi-v7a": {
+      "artifactName": "libopencv_photo",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_photo.a"
+    },
+    "libopencv_videoio-Release-armeabi-v7a": {
+      "artifactName": "libopencv_videoio",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_videoio.a"
+    },
+    "libopencv_imgproc-Release-armeabi-v7a": {
+      "artifactName": "libopencv_imgproc",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_imgproc.a"
+    },
+    "libopencv_imgcodecs-Release-armeabi-v7a": {
+      "artifactName": "libopencv_imgcodecs",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_imgcodecs.a"
+    },
+    "libopencv_highgui-Release-armeabi-v7a": {
+      "artifactName": "libopencv_highgui",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_highgui.a"
+    },
+    "libopencv_calib3d-Release-armeabi-v7a": {
+      "artifactName": "libopencv_calib3d",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_calib3d.a"
+    },
+    "libopencv_java3-Release-armeabi-v7a": {
+      "artifactName": "libopencv_java3",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_java3.so"
+    },
+    "libopencv_ml-Release-armeabi-v7a": {
+      "artifactName": "libopencv_ml",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_ml.a"
+    },
+    "libopencv_objdetect-Release-armeabi-v7a": {
+      "artifactName": "libopencv_objdetect",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_objdetect.a"
+    },
+    "libopencv_superres-Release-armeabi-v7a": {
+      "artifactName": "libopencv_superres",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_superres.a"
+    },
+    "libopencv_flann-Release-armeabi-v7a": {
+      "artifactName": "libopencv_flann",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_flann.a"
+    },
+    "libopencv_shape-Release-armeabi-v7a": {
+      "artifactName": "libopencv_shape",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_shape.a"
+    },
+    "libopencv_video-Release-armeabi-v7a": {
+      "artifactName": "libopencv_video",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_video.a"
+    },
+    "libopencv_stitching-Release-armeabi-v7a": {
+      "artifactName": "libopencv_stitching",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_stitching.a"
+    },
+    "jupiter_opencv_320-Release-armeabi-v7a": {
+      "artifactName": "jupiter_opencv_320",
+      "buildCommand": "C:\\Users\\hwang69\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target jupiter_opencv_320",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libjupiter_opencv_320.so"
+    },
+    "libopencv_core-Release-armeabi-v7a": {
+      "artifactName": "libopencv_core",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_core.a"
+    },
+    "libopencv_ts-Release-armeabi-v7a": {
+      "artifactName": "libopencv_ts",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_ts.a"
+    },
+    "libopencv_videostab-Release-armeabi-v7a": {
+      "artifactName": "libopencv_videostab",
+      "abi": "armeabi-v7a",
+      "output": "H:\\PoseEstimation_Mobile_0208\\MOBL\\demo_tflite\\app\\libs\\armeabi-v7a\\libopencv_videostab.a"
+    }
+  }
+}

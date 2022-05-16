@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: :tensorflow-lite:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/d5cd38f42e8d84cd56c5d31d41909354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/ca4d0fe4c73502ccf88691c32dad1413/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/6331d87d8a20a14e5783414a0bcd6f1a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/551fcb453d27287be0c8bfb7b01660f2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/551fcb453d27287be0c8bfb7b01660f2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/551fcb453d27287be0c8bfb7b01660f2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/5ddc2c32e159b436ffb2610d6291aade/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/487f9f974a1bf71f054d018eda8309f0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/487f9f974a1bf71f054d018eda8309f0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow-lite.aar/487f9f974a1bf71f054d018eda8309f0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

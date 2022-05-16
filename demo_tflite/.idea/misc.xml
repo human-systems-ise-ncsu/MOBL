@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MoBiomechLab_backup/0225/demo_tflite/app/src/main/res/layout/activity_camera.xml" value="0.32518115942028986" />
+        <entry key="..\:/MoBiomechLab_backup/0225/demo_tflite/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.32518115942028986" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_com_f.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_com_m.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_efe_l.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_efe_r.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_gait.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_kb.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_saa_l.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_saa_r.xml" value="0.19166666666666668" />
+        <entry key="..\:/MoBiomechLab_backup/0308/demo_tflite/app/src/main/res/layout/fragment_camera2_tlb.xml" value="0.19166666666666668" />
+        <entry key="..\:/PoseEstimation_Mobile/Hanwen_Project/demo_tflite/app/src/main/res/layout-land/fragment_camera2_basic.xml" value="0.35989583333333336" />
+        <entry key="..\:/PoseEstimation_Mobile/Hanwen_Project/demo_tflite/app/src/main/res/layout/activity_camera.xml" value="0.3129528985507246" />
+        <entry key="..\:/PoseEstimation_Mobile/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.3129528985507246" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout-land/fragment_camera2_CoM_M.xml" value="0.2583774250440917" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout-land/fragment_camera2_basic.xml" value="0.3854166666666667" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/activity_camera.xml" value="0.35280797101449274" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_CoM_F.xml" value="0.30520833333333336" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_CoM_M.xml" value="0.30520833333333336" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.29528985507246375" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_com_f.xml" value="0.30104166666666665" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_com_m.xml" value="0.3307291666666667" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_efe_l.xml" value="0.29528985507246375" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_efe_r.xml" value="0.2911458333333333" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_gait.xml" value="0.28854166666666664" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_jump.xml" value="0.22192028985507245" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_kb.xml" value="0.26666666666666666" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_saa_l.xml" value="0.30520833333333336" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_saa_r.xml" value="0.30520833333333336" />
+        <entry key="..\:/PoseEstimation_Mobile_0208/Hanwen_Project/demo_tflite/app/src/main/res/layout/fragment_camera2_tlb.xml" value="0.30520833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>

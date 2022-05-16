@@ -1,0 +1,19 @@
+1. Download the code library from github website: https://github.com/edvardHua/PoseEstimationForMobile
+2. Unzip the file to a separate directory 
+3. Install Android Studio following default instrcutions (You can customize your own path)
+4. Open Android Studio, File--Open--\......\PoseEstimationForMobile-master\android_demo\demo_tflite\app
+   upgrade 4.8
+5. ndk {
+        abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
+    }   in build.gradle
+6. dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.1'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.kotlin}"
+    }
+} in build.gradle
+7. Prior to that, the workaround is to add 'android.enableD8.desugaring=true' to your 'gradle.properties'.
+
+8. don't upgrade as recommended in upgrade assistant
+
+build.gradle(demo_tflite)
+classpath 'com.android.tools.build:gradle:3.2.1'

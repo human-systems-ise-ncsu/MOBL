@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+MERGED from [:openCVLibrary341] H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\openCVLibrary341\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:tensorflow-lite:] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\d5cd38f42e8d84cd56c5d31d41909354\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e5caa03ce4636d179699ca09e7eee24b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\846a1734420d33d0761764fe3f2e7dc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fc64978f59a066b4ee53ca56e1074998\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\7dde98410acde235ab50e87ab79d515a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\639035cd69b6ff0044dc2656d1472e3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c7ea340881b987164c3202293ea81e63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7fe027c2d7bc03a712d807c270fcb91c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e09b8e64b69d91b98b06ee471d3b3270\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e495ebeabe84d151cf4fc3bd3ecce96b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b3c0be07dfa81fa629ae3817ab86c92b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01a552cb954e86361f7546009aef3720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4c2d31851c5e0e42ba3f223e57a5d2c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fdde2ce879b60f144ec3e30c30550479\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\082c3d4e2ab2985bc4a1b1ee8c07459e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\f808c5347c84d7dae16b1656c58ab9e2\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82da894f43b5c96123ad2a629d96aedf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\00724fb97504aa4bd097be128a72b909\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a122aa635d944cd67992db267d3f1143\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5535acd3c3e45072338210018e7e8602\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:19:11-44
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:23:5-59
+	android:name
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:26:5-41:19
+MERGED from [:tensorflow-lite:] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\d5cd38f42e8d84cd56c5d31d41909354\AndroidManifest.xml:4:5-5:19
+MERGED from [:tensorflow-lite:] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\d5cd38f42e8d84cd56c5d31d41909354\AndroidManifest.xml:4:5-5:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fc64978f59a066b4ee53ca56e1074998\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fc64978f59a066b4ee53ca56e1074998\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\f808c5347c84d7dae16b1656c58ab9e2\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\f808c5347c84d7dae16b1656c58ab9e2\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:30:9-45
+activity#com.edvard.MoBiomechLab.CameraActivity
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:screenOrientation
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:33:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+MERGED from [:openCVLibrary341] H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\openCVLibrary341\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary341] H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\openCVLibrary341\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e5caa03ce4636d179699ca09e7eee24b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e5caa03ce4636d179699ca09e7eee24b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\846a1734420d33d0761764fe3f2e7dc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\846a1734420d33d0761764fe3f2e7dc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fc64978f59a066b4ee53ca56e1074998\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fc64978f59a066b4ee53ca56e1074998\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\7dde98410acde235ab50e87ab79d515a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\7dde98410acde235ab50e87ab79d515a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\639035cd69b6ff0044dc2656d1472e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\639035cd69b6ff0044dc2656d1472e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c7ea340881b987164c3202293ea81e63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c7ea340881b987164c3202293ea81e63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7fe027c2d7bc03a712d807c270fcb91c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7fe027c2d7bc03a712d807c270fcb91c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e09b8e64b69d91b98b06ee471d3b3270\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e09b8e64b69d91b98b06ee471d3b3270\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e495ebeabe84d151cf4fc3bd3ecce96b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e495ebeabe84d151cf4fc3bd3ecce96b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b3c0be07dfa81fa629ae3817ab86c92b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b3c0be07dfa81fa629ae3817ab86c92b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01a552cb954e86361f7546009aef3720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01a552cb954e86361f7546009aef3720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4c2d31851c5e0e42ba3f223e57a5d2c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4c2d31851c5e0e42ba3f223e57a5d2c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fdde2ce879b60f144ec3e30c30550479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fdde2ce879b60f144ec3e30c30550479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\082c3d4e2ab2985bc4a1b1ee8c07459e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\082c3d4e2ab2985bc4a1b1ee8c07459e\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\f808c5347c84d7dae16b1656c58ab9e2\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\f808c5347c84d7dae16b1656c58ab9e2\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82da894f43b5c96123ad2a629d96aedf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82da894f43b5c96123ad2a629d96aedf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\00724fb97504aa4bd097be128a72b909\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\00724fb97504aa4bd097be128a72b909\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a122aa635d944cd67992db267d3f1143\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a122aa635d944cd67992db267d3f1143\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5535acd3c3e45072338210018e7e8602\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hwang69\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5535acd3c3e45072338210018e7e8602\AndroidManifest.xml:20:5-44
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		ADDED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+		INJECTED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from H:\PoseEstimation_Mobile_0208\Hanwen_Project\demo_tflite\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
