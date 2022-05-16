@@ -11,7 +11,7 @@
 **GITHUB use:** (When you come up with any problems, feel free to leave an issue or PR.)
   1. For windows user, click 'Code' in green button and select 'Download Zip'. Where you download it doesn't matter.
   2. Open the zip file and unzip it.
-  3. The files in the zip file are exactly the same with the files shown in the Github page. The environments I build this demo are: <br />* Operation System-- Windows 10 Education; <br />* Android Studio-- 2020.3.0.0 for windows; <br />* NDK Version-- 16.1.4479499; <br />* SDK Version-- Android 8.0 with API level 26.
+  3. The files in the zip file are exactly the same with the files shown in the Github page. The environments I build this demo are: <br />* Operation System-- Windows 10 Education; <br />* Android Studio-- 2020.3.0.0 for Windows; <br />* NDK Version-- 16.1.4479499; <br />* SDK Version-- Android 8.0 with API level 26.
   4. Finally, import the project to Android Studio and run in you smartphone.<br />
   
 **Computer-vision:** <br />
